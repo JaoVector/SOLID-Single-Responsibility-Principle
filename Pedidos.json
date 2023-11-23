@@ -1,0 +1,17 @@
+[
+  {
+    "IdPedido": 1,
+    "Nome": "Chocolate",
+    "Descricao": "Chocolate com Pimenta"
+  },
+  {
+    "IdPedido": 2,
+    "Nome": "Frango Frito",
+    "Descricao": "Balde de Tulipas"
+  },
+  {
+    "IdPedido": 3,
+    "Nome": "Suco",
+    "Descricao": "Suco de Laranja"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "IdProduto": 1,
+    "Nome": "Frango",
+    "Descricao": "Frango Congelado",
+    "Quantidade": 5,
+    "DataEntrada": "2023-11-10T10:39:58.9591095-03:00"
+  },
+  {
+    "IdProduto": 1,
+    "Nome": "Laranjas",
+    "Descricao": "Laranjas Lima",
+    "Quantidade": 6,
+    "DataEntrada": "2023-11-13T10:39:58.9789419-03:00"
+  },
+  {
+    "IdProduto": 1,
+    "Nome": "Suco",
+    "Descricao": "Suco em Lata",
+    "Quantidade": 5,
+    "DataEntrada": "2023-11-12T10:39:58.9789489-03:00"
+  }
+]
